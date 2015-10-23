@@ -34,9 +34,7 @@ This means some of the data is missing because it is not there(the case where
 "actual" data was missing), but it should also be noted that some of 
 this data is missing because it raised a flag in the parser (the case 
 with the record issue). In here you can find the raw csv-files and 
-the raw visualizations with the missing data. 
-
-There is also the final folder
+the raw visualizations with the missing data. There is also the final folder
 
 Observations, city by city.
 
@@ -55,6 +53,7 @@ Princeton, NJ: perfect data
 Chicago,IL: 3 days missing, not same as Evanston, merged with Evanston
 
 Last Update: 10/23/15
+
 Contact:
 Randy Olsen,
 Michael Lerner -- lernemi@earlham.edu,
