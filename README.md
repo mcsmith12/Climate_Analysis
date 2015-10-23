@@ -1,7 +1,8 @@
 # Climate_Analysis
 
 This repository was created by Thu Pham and myself
-to help Michael Lerner teach a class at Earlham. 
+to help Michael Lerner teach a class at Earlham to look at climate patterns
+for July 2014 - June 2015. 
 The code was adapted from Randy Olsen's project found 
 here (http://www.randalolson.com/2015/08/13/the-new-york-times-weather-chart-redux/).
 
