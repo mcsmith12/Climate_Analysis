@@ -13,6 +13,7 @@ The wundergroundVisualization can then be used to create the images from the csv
 
 
 Some Updates
+
 1. Michael wanted us to check that the extrema were correct. 
 Indeed the one he was initially concerned with(Richmond) was NOT correct. 
 These we believe were errors because we did them by hand. We have since checked 
@@ -52,6 +53,7 @@ Princeton, NJ: perfect data
 
 Chicago,IL: 3 days missing, not same as Evanston, merged with Evanston
 
+Last Update: 10/23/15
 Contact:
 Randy Olsen,
 Michael Lerner -- lernemi@earlham.edu,
